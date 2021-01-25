@@ -63,5 +63,6 @@ private String binary(int number){
 Но, всі мої старання розбились, коли я знайшов, що в java є одна строчка, яка робить все це (тут має бути смайл типу - рука литце). Тому вийшло що вийшло)
 ### Фото виконання
 ![](https://github.com/ppc-ntu-khpi/35---static-methods-Vadym-Al/blob/master/out/%D0%92%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F_1.png)
-
+Перевірка на різні вхідні данні
+![](https://github.com/ppc-ntu-khpi/35---static-methods-Vadym-Al/blob/master/out/%D0%92%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F_2.png)
 ### Висновки
