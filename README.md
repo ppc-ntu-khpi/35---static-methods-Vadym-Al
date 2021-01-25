@@ -68,6 +68,6 @@ private String binary(int number){
 А ось так я працював))
 ![](https://github.com/ppc-ntu-khpi/35---static-methods-Vadym-Al/blob/master/out/%D0%92%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F_3.png)
 ### Документація
-![](https://ppc-ntu-khpi.github.io/35---static-methods-Vadym-Al/)
+![Тицьніть сюди](https://ppc-ntu-khpi.github.io/35---static-methods-Vadym-Al/)
 ### Висновки
 Якщо Ви порахуєте, що я не достатьно зробив, я готовий зробити ще декілька завдання!
